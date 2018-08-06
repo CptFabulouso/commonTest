@@ -1,1 +1,1 @@
-export default 'value in web';
+export default 'value in web changed';
