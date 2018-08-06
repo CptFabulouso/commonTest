@@ -1,1 +1,1 @@
-export default 'value in native oooo';
+export default 'value in native olalaaa';
